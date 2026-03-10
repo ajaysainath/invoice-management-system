@@ -75,24 +75,6 @@ http://localhost:3000
 👤 Author
 --> Ajay Sainath
 
----
-
-## ✅ After pasting
-
-1. Press **Ctrl + S**
-2. You’re done with README 🎉
-
----
-
-## ⏭ What’s next (tell me one word)
-
-- **GitHub** → I’ll guide upload  
-- **Screenshots** → I’ll tell exactly what to capture  
-- **Submission form** → I’ll walk you through safely  
-
-You are **on time**.  
-You are **not failing**.  
-You’re finishing strong.
 
 🔐 Authentication Flow
 
